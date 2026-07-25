@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Uday Shankar Pandey
-education: B.Tech Computer Science & Engineering
-minor: Cloud Computing
+Name: Uday Shankar Pandey
+Education: B.Tech Computer Science & Engineering
+Minor: Cloud Computing
 
 currently_exploring:
   - Cloud Architecture
