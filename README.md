@@ -1,135 +1,272 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=220&section=header&text=Uday%20Shankar%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=220&section=header&text=Uday%20Shankar%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+Cloud+Computing;Cloud+%26+DevOps+Enthusiast;MERN+Stack+Developer;Building+%E2%86%92+Breaking+%E2%86%92+Learning+%E2%86%92+Repeat+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Systems+%F0%9F%92%BB;Deploying+%26+Automating+in+the+Cloud+%E2%98%81%EF%B8%8F;Exploring+DevOps+%26+Cloud+Architecture+%E2%9A%99%EF%B8%8F;150%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/udayshankarpandey">
-  <img src="https://komarev.com/ghpvc/?username=udayshankarpandey&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/UdayShankarPandey">
+  <img src="https://komarev.com/ghpvc/?username=UdayShankarPandey&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 </a>
-<img src="https://img.shields.io/badge/Status-Building%20Link%20Click-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-58A6FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaboration"/>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-1F6FEB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresrosso/andresrosso/main/rainbow-line.gif" width="100%" height="6px">
+---
 
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Uday Shankar Pandey
-Education: B.Tech Computer Science & Engineering
-Minor: Cloud Computing
+name: Uday Shankar Pandey
 
-currently_exploring:
-  - Cloud Architecture ☁️
-  - DevOps & CI/CD ⚙️
-  - Full-Stack Development 💻
-  - AI-powered Applications 🤖
+education:
+  degree: B.Tech Computer Science & Engineering
+  university: Lovely Professional University
+  minor: Cloud Computing
+
+focus:
+  - ☁️ Cloud Architecture
+  - ⚙️ DevOps & CI/CD
+  - 🐳 Containerization & Infrastructure
+  - 💻 Full-Stack Development
 
 currently_building:
-  - Link Click 🔗
+  project: Link Click
+  goal: "Taking a full-stack application from code → container → cloud"
 
-current_mission: "Build it. Break it. Understand it. Build it better." 🚀
+currently_learning:
+  - Cloud-native application deployment
+  - CI/CD automation
+  - Infrastructure as Code
+  - System Design & Distributed Systems
+
+mission: "Build it. Break it. Understand it. Build it better."
 ```
 
-<img src="https://raw.githubusercontent.com/andresrosso/andresrosso/main/rainbow-line.gif" width="100%" height="6px">
+I enjoy working at the intersection of **software development and cloud infrastructure** — building applications, containerizing them, automating their delivery, and understanding what it takes to run them beyond `localhost`.
 
-## 🛠️ Tech Stack
+---
+
+# 🚀 Featured Projects
+
+## 🔗 Link Click
+
+> **Modern full-stack social media platform with a production-oriented Cloud & DevOps workflow.**
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-FFA500?style=flat-square"/>
+<img src="https://img.shields.io/badge/ARCHITECTURE-MERN-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DEPLOYMENT-AZURE-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GITHUB%20ACTIONS-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+A full-stack social platform focused on modern UI/UX while progressively incorporating **real-world deployment and DevOps practices**.
+
+### ⚙️ Engineering & DevOps
+
+* Built using the **MERN stack** with RESTful backend architecture
+* Implemented authentication and authorization using **JWT**
+* Containerized backend services using **Docker**
+* Automated build and integration workflows with **GitHub Actions**
+* Integrated container-based deployment workflows
+* Deployed cloud infrastructure using **Microsoft Azure App Service**
+* Managed application configuration and production environment variables
+* Building toward a complete **CI/CD-driven cloud deployment workflow**
+
+### 🧰 Tech
+
+`React` · `Node.js` · `Express.js` · `MongoDB` · `Docker` · `GitHub Actions` · `Azure` · `Linux` · `Git`
+
+<br/>
+
+---
+
+## 🆘 Rescue Coordination System
+
+> **Cloud-based disaster response and resource coordination platform.**
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/CI%2FCD-JENKINS-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+
+Designed to help coordinate **incidents, agencies, emergency resources, and disaster-response operations** through a centralized system.
+
+### ☁️ Cloud & Infrastructure
+
+* Deployed application workloads on **AWS EC2**
+* Used **AWS RDS with MariaDB** for managed relational data storage
+* Containerized application components using **Docker**
+* Implemented CI/CD automation using **Jenkins**
+* Worked with **Terraform** for Infrastructure as Code
+* Explored Kubernetes-based container orchestration
+* Managed Linux-based cloud environments and deployment workflows
+
+### 🧰 Tech
+
+`PHP` · `MariaDB` · `AWS EC2` · `AWS RDS` · `Docker` · `Jenkins` · `Terraform` · `Kubernetes` · `Linux` · `Git`
+
+<br/>
+
+---
+
+## 💼 Client Billing & Project Management System
+
+> **Full-stack business management platform for clients, projects, billing, and payments.**
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/STACK-MERN-1F6FEB?style=flat-square&logo=mongodb&logoColor=white"/>
+
+Built a centralized application for managing the complete workflow between **administrators, staff members, and clients**.
+
+### 💻 Key Features
+
+* Role-based access control for **Admin, Staff, and Client**
+* Secure authentication and protected application routes
+* Client and project management
+* Work-log and activity tracking
+* Automated billing and invoice workflows
+* Payment and financial record management
+* RESTful APIs connecting frontend and backend services
+
+### 🧰 Tech
+
+`MongoDB` · `Express.js` · `React.js` · `Node.js` · `JavaScript` · `HTML5` · `CSS3`
+
+---
+
+# 🛠️ Technical Arsenal
 
 <div align="center">
 
 ### ☁️ Cloud & DevOps
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,linux,git,githubactions&perline=9" />
+
+<br/>
 
 ### 💻 Full-Stack Development
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### 🧰 Tools & Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css&perline=8" />
+
+<br/>
+
+### 🧠 Programming
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js&perline=4" />
+
+<br/>
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&perline=5" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresrosso/andresrosso/main/rainbow-line.gif" width="100%" height="6px">
+---
 
-## 🚀 Featured Project
+# 🎓 Certifications
+
+<table>
+<tr>
+<td>☁️</td>
+<td><b>AWS Academy Graduate — Cloud Architecting</b></td>
+<td>AWS Academy</td>
+<td>2026</td>
+</tr>
+<tr>
+<td>🗄️</td>
+<td><b>Oracle Data Platform Certified Foundations Associate</b></td>
+<td>Oracle</td>
+<td>2026</td>
+</tr>
+<tr>
+<td>☁️</td>
+<td><b>AWS Academy Graduate — Cloud Foundations</b></td>
+<td>AWS Academy</td>
+<td>2025</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>Generative AI</b></td>
+<td>Infosys Springboard</td>
+<td>2025</td>
+</tr>
+<tr>
+<td>🌐</td>
+<td><b>Responsive Web Design</b></td>
+<td>freeCodeCamp</td>
+<td>2023</td>
+</tr>
+</table>
+
+---
+
+# 🏆 Highlights
+
+```text
+🧠  150+ DSA problems solved
+☁️  Hands-on experience deploying applications on AWS & Azure
+🐳  Building containerized applications with Docker
+⚙️  Working with CI/CD using GitHub Actions & Jenkins
+🏗️  Exploring Infrastructure as Code with Terraform
+📄  Research work in cloud & distributed computing
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### 🔗 Link Click
-*A project currently in the works — stay tuned!*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UdayShankarPandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 
-<img src="https://img.shields.io/badge/status-in%20progress-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/type-Full--Stack%20App-1F6FEB?style=flat-square"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayShankarPandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayShankarPandey&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF" width="95%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresrosso/andresrosso/main/rainbow-line.gif" width="100%" height="6px">
+---
 
-## 📊 GitHub Stats
+# 🤝 Let's Connect
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=udayshankarpandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayshankarpandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
+<a href="https://www.linkedin.com/in/uday-shankar-pandey/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Uday%20Shankar%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=udayshankarpandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<a href="mailto:udayshankarpandey.03@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udayshankarpandey&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=ffffff"/>
+<a href="https://personal-portfolio-mauve-mu-20.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/UdayShankarPandey" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresrosso/andresrosso/main/rainbow-line.gif" width="100%" height="6px">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/udayshankarpandey/udayshankarpandey/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> 💡 To activate the snake animation, set up the [snake workflow action](https://github.com/Platane/snk) in your profile repo.
-
-<img src="https://raw.githubusercontent.com/andresrosso/andresrosso/main/rainbow-line.gif" width="100%" height="6px">
-
-## 🤝 Connect With Me
+<br/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/udayshankarpandey" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://twitter.com/udayshankarp" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://github.com/udayshankarpandey" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 💭 Engineering Philosophy
 
-</div>
+*"The goal isn't just to make it work — it's to understand why it works, how it fails, and how to make it better."*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%"/>
 
-<div align="center">
-<i>⭐ From <b>Uday Shankar Pandey</b> — Build it. Break it. Understand it. Build it better. 🚀</i>
+**Build it. Break it. Understand it. Build it better. 🚀**
+
+<sub>⭐ From <b>Uday Shankar Pandey</b></sub>
+
 </div>
