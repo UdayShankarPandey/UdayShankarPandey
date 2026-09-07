@@ -49,7 +49,7 @@ I enjoy taking something from **code → container → deployment → automation
 │ ⚙️ DevOps & Automation     │
 │ 🐳 Docker & Containers     │
 │ 🚀 CI/CD                   │
-│ 🏗️ System Design          │
+│ 🏗️ System Design           │
 │ 🧠 Problem Solving         │
 └────────────────────────────┘
 </pre>
@@ -228,21 +228,65 @@ I enjoy taking something from **code → container → deployment → automation
 
 <div align="center">
 
-<pre>
-        BUILD
-          ↓
-       TEST IT
-          ↓
-       BREAK IT
-          ↓
-     UNDERSTAND IT
-          ↓
-       IMPROVE IT
-          ↓
-        REPEAT
-</pre>
+### ⚙️ **BUILD → BREAK → UNDERSTAND → IMPROVE**
 
-> **"The goal isn't just to make it work — it's to understand why it works, how it fails, and how to make it better."**
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🏗️
+### BUILD
+
+Create with purpose.<br/>
+Turn ideas into systems.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💥
+### BREAK
+
+Push the limits.<br/>
+Find where things fail.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔍
+### UNDERSTAND
+
+Trace the problem.<br/>
+Learn how it really works.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+### IMPROVE
+
+Fix the weakness.<br/>
+Build it better.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**↻ Then repeat the cycle.**
+
+<br/>
+
+> *"The goal isn't just to make it work — it's to understand why it works, how it fails, and how to make it better."*
+
+<br/>
+
+### 💡 **Every failure is a system teaching you something.**
 
 </div>
 
