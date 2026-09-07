@@ -49,7 +49,7 @@ I enjoy taking something from **code → container → deployment → automation
 │ ⚙️ DevOps & Automation     │
 │ 🐳 Docker & Containers     │
 │ 🚀 CI/CD                   │
-│ 🏗️ System Design          │
+│ 🏗️ System Design           │
 │ 🧠 Problem Solving         │
 └────────────────────────────┘
 ```
@@ -188,17 +188,25 @@ I enjoy taking something from **code → container → deployment → automation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UdayShankarPandey&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=UdayShankarPandey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayShankarPandey&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayShankarPandey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UdayShankarPandey&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayShankarPandey&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=UdayShankarPandey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="95%" alt="GitHub Profile Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayShankarPandey&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -246,7 +254,7 @@ I enjoy taking something from **code → container → deployment → automation
 <img src="https://img.shields.io/badge/LinkedIn-Uday%20Shankar%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:udayshankarpandey.03@gmail.com">
+<a href="mailto:[udayshankarpandey.03@gmail.com](mailto:udayshankarpandey.03@gmail.com)">
 <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
